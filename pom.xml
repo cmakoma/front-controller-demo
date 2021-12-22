@@ -12,6 +12,10 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 	</properties>
 
+	<properties>
+  		<sonar.organization>cmakoma</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
 
 
 	<dependencies>
